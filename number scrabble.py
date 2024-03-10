@@ -1,4 +1,3 @@
-#                      NAme: ammar osama farouk                                   ID: 20230245
 
 #                                                 Welcome to number scrabble :)
 print("welcome to number scrabble :)")
